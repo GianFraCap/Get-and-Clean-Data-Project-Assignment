@@ -1,0 +1,72 @@
+Here is a brief description of column names
+1 Activity Name
+2 Time Domain Linear Acceleration - mean value- Axis X
+3 Time Domain Linear Acceleration - mean value- Axis Y
+4 Time Domain Linear Acceleration - mean value- Axis Z
+5 Time Domain Linear Acceleration - Standard Deviation- Axis X
+6 Time Domain Linear Acceleration - Standard Deviation- Axis Y
+7 Time Domain Linear Acceleration - Standard Deviation- Axis Z
+8 Time Domain Gravity Acceleration - mean value- Axis X
+9 Time Domain Gravity Acceleration - mean value- Axis Y
+10 Time Domain Gravity Acceleration - mean value- Axis Z
+11 Time Domain Gravity Acceleration - Standard Deviation- Axis X
+12 Time Domain Gravity Acceleration - Standard Deviation- Axis Y
+13 Time Domain Gravity Acceleration - Standard Deviation- Axis Z
+14 Time Domain Jerk Linear Acceleration - mean value- Axis X
+15 Time Domain Jerk Linear Acceleration - mean value- Axis Y
+16 Time Domain Jerk Linear Acceleration - mean value- Axis Z
+17 Time Domain Jerk Linear Acceleration - Standard Deviation- Axis X
+18 Time Domain Jerk Linear Acceleration - Standard Deviation- Axis Y
+19 Time Domain Jerk Linear Acceleration - Standard Deviation- Axis Z
+20 Time Domain Angular Acceleration - mean value- Axis X
+21 Time Domain Angular Acceleration - mean value- Axis Y
+22 Time Domain Angular Acceleration - mean value- Axis Z
+23 Time Domain Angular Acceleration - Standard Deviation- Axis X
+24 Time Domain Angular Acceleration - Standard Deviation- Axis Y
+25 Time Domain Angular Acceleration - Standard Deviation- Axis Z
+26 Time Domain Jerk Angular Acceleration - mean value- Axis X
+27 Time Domain Jerk Angular Acceleration - mean value- Axis Y
+28 Time Domain Jerk Angular Acceleration - mean value- Axis Z
+29 Time Domain Jerk Angular Acceleration - Standard Deviation- Axis X
+30 Time Domain Jerk Angular Acceleration - Standard Deviation- Axis Y
+31 Time Domain Jerk Angular Acceleration - Standard Deviation- Axis Z
+32 Time Domain Linear Acceleration Magnitude - mean()
+33 Time Domain Linear Acceleration Magnitude - Standard Deviation
+34 Time Domain Gravity Acceleration Magnitude - Mean Value
+35 Time Domain Gravity Acceleration Magnitude - Standard Deviation
+36 Time Domain Jerk Linear Acceleration -mean()
+37 Time Domain Jerk Linear Acceleration -std()
+38 Time Domain Angular Acceleration Magnitude- Mean Value
+39 Time Domain Angular Acceleration Magnitude- Standard Deviation
+40 Time Domain Jerk Angular Acceleration Magnitude- Mean Value
+41 Time Domain Jerk Angular Acceleration Magnitude- Standard Deviation
+42 Frequency Domain Linear Acceleration - mean value- Axis X
+43 Frequency Domain Linear Acceleration - mean value- Axis Y
+44 Frequency Domain Linear Acceleration - mean value- Axis Z
+45 Frequency Domain Linear Acceleration - Standard Deviation- Axis X
+46 Frequency Domain Linear Acceleration - Standard Deviation- Axis Y
+47 Frequency Domain Linear Acceleration - Standard Deviation- Axis Z
+48 Frequency Domain Linear Acceleration - meanFreq()- Axis X
+49 Frequency Domain Linear Acceleration - meanFreq()- Axis Y
+50 Frequency Domain Linear Acceleration - meanFreq()- Axis Z
+51 Frequency Domain Jerk Linear Acceleration Magnitude - mean value- Axis X
+52 Frequency Domain Jerk Linear Acceleration Magnitude - mean value- Axis Y
+53 Frequency Domain Jerk Linear Acceleration Magnitude - mean value- Axis Z
+54 Frequency Domain Jerk Linear Acceleration Magnitude - Standard Deviation- Axis X
+55 Frequency Domain Jerk Linear Acceleration Magnitude - Standard Deviation- Axis Y
+56 Frequency Domain Jerk Linear Acceleration Magnitude - Standard Deviation- Axis Z
+57 Frequency Domain Jerk Linear Acceleration Magnitude - meanFreq()- Axis X
+58 Frequency Domain Jerk Linear Acceleration Magnitude - meanFreq()- Axis Y
+59 Frequency Domain Jerk Linear Acceleration Magnitude - meanFreq()- Axis Z
+60 Frequency Domain Angular Acceleration - mean value- Axis X
+61 Frequency Domain Angular Acceleration - mean value- Axis Y
+62 Frequency Domain Angular Acceleration - mean value- Axis Z
+63 Frequency Domain Angular Acceleration - Standard Deviation- Axis X
+64 Frequency Domain Angular Acceleration - Standard Deviation- Axis Y
+65 Frequency Domain Angular Acceleration - Standard Deviation- Axis Z
+66 Frequency Domain Angular Acceleration - meanFreq()- Axis X
+67 Frequency Domain Angular Acceleration - meanFreq()- Axis Y
+68 Frequency Domain Angular Acceleration - meanFreq()- Axis Z
+69 Frequency Domain Linear Acceleration Magnitude - Mean Value
+70 Frequency Domain Linear Acceleration Magnitude - Standard Deviation
+71 Frequency Domain Linear Acceleration Magnitude - meanFreq()
